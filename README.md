@@ -1,2 +1,2 @@
 Communication between a Chrome Extension 'Browser Action', a 'content script', and an active webpage is demonstrated.  A CSS file is programmatically injected on demand into the 
-active webpage, and a content script is used to retrieve the webpage's URL.  It is seen that a background page is not necessary for these types of action.
+active webpage to change the page's background colour, and a content script is used to both change the page's text colour and to retrieve the page's URL.  It is seen that a background page is not necessary for these types of action.
