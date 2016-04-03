@@ -6,7 +6,7 @@ document.getElementById('execute').addEventListener('click',executeIt);
 function executeIt()  {
     
     
-    //An example of how to dynamically change the popup. (e.g. activate a CSS fle.)
+    //An example of how to dynamically change the popup. (e.g. activate a CSS file.)
     document.getElementById('popupCSS').disabled = false;
     
     
